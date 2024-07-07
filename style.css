@@ -1,0 +1,19 @@
+.form{
+    padding: 10px;
+    border: 1px solid black;
+    width: fit-content;
+}
+.form input{
+    margin: 5px;
+}
+#cardContainer{
+    padding: 1px;
+    border: 1px solid black;
+    width: fit-content;
+    display: flex;
+}
+.card{
+    border: 1px solid black;
+    padding: 10px;
+
+}
